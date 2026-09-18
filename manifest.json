@@ -1,7 +1,9 @@
 {
+  "id": "https://barqtop.com/",
   "name": "برق الدولية للاستشارات",
   "short_name": "Barqtop",
-  "start_url": "/",
+  "start_url": "https://barqtop.com/",
+  "scope": "https://barqtop.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1e3a8a",
@@ -10,12 +12,12 @@
     {
       "src": "https://barqtop.com/favicon.ico",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/x-icon"
     },
     {
       "src": "https://barqtop.com/favicon.ico",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/x-icon"
     }
   ]
 }
